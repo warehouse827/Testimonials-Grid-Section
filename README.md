@@ -1,6 +1,6 @@
 ### Screenshot
 
-![](screenshots/testimonials-grid-section-solution.png)
+![](screenshots/testimonials-grid-section-solution--updated.png)
 
 # Frontend Mentor - Testimonials grid section solution
 
