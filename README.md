@@ -1,6 +1,6 @@
 ### Screenshot
 
-![](screenshots/testimonials-grid-section-solution--warehouse827.png)
+![](screenshots/testimonials-grid-section-solution-warehouse-827.png)
 
 # Frontend Mentor - Testimonials grid section solution
 
@@ -36,15 +36,13 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- Bootstrap 5.2 [https://blog.getbootstrap.com/2022/07/19/bootstrap-5-2-0/]
+- Grid / Grid Area
+- A11Y
+- Golden Ratio Text
 
 ### Useful resources
 
 - [MDN](https://developer.mozilla.org/en-US/)
-- [Bootstrap Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
 ## Author
 
